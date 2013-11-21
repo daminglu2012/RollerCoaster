@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RollerCoaster">
+</Property><Property Name="Solution File" Value="G:\Spring2012\CS480\Assignment2\code_online\pws\CMPSC458RollerCoaster\RollerCoaster.sln">
+</Property><Property Name="Date" Value="Monday, February 20, 2012">
+</Property><Property Name="Time" Value="20:40 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="RollerCoaster" Source="RollerCoaster.vcproj" Description="Converting project file 'G:\Spring2012\CS480\Assignment2\code_online\pws\CMPSC458RollerCoaster\RollerCoaster.vcproj'.">
+</Event><Event ErrorLevel="1" Project="RollerCoaster" Source="RollerCoaster.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="RollerCoaster" Source="RollerCoaster.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RollerCoaster" Source="RollerCoaster.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="RollerCoaster" Source="RollerCoaster.vcproj" Description="Done converting to new project file 'G:\Spring2012\CS480\Assignment2\code_online\pws\CMPSC458RollerCoaster\RollerCoaster.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="RollerCoaster" Source="RollerCoaster.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RollerCoaster.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RollerCoaster.sln" Description="Converted">
+</Event></UpgradeLog>

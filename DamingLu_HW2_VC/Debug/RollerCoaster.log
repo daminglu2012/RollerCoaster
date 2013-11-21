@@ -1,0 +1,16 @@
+﻿Build started 5/31/2012 4:29:10 AM.
+     1>Project "H:\Spring2012_Study\Spring2012\CS480\Assignment2\code_online\pws\DamingLu_HW2\DamingLu_HW2_VC\RollerCoaster.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\RollerCoaster.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IH:\Spring2012_Study\Spring2012\CS480\Assignment2\code_online\pws\DamingLu_HW2\DamingLu_HW2_VC\\libs\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt rc_main.cpp rc_spline.cpp
+         rc_spline.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'rc_spline.cpp': No such file or directory
+         rc_main.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'rc_main.cpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "H:\Spring2012_Study\Spring2012\CS480\Assignment2\code_online\pws\DamingLu_HW2\DamingLu_HW2_VC\RollerCoaster.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.27
